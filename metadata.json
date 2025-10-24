@@ -1,0 +1,5 @@
+{
+  "name": "SNS偽情報ファクトチェッカー (SNS Misinformation Fact Checker)",
+  "description": "A web application to analyze SNS posts for potential misinformation and to educate users on information literacy through quizzes. It uses AI to assess reliability and provide fact-checking keywords.",
+  "requestFramePermissions": []
+}
